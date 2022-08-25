@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB_Progra", "DB_Progra\DB_Progra.csproj", "{2C3B6C9E-C1C8-4A3C-BDCF-676FBEC203D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C3B6C9E-C1C8-4A3C-BDCF-676FBEC203D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C3B6C9E-C1C8-4A3C-BDCF-676FBEC203D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C3B6C9E-C1C8-4A3C-BDCF-676FBEC203D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C3B6C9E-C1C8-4A3C-BDCF-676FBEC203D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B5E465C-794D-401B-BF3D-96F1B5EE22F3}
+	EndGlobalSection
+EndGlobal
